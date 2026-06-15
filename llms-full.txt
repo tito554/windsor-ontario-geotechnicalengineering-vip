@@ -1,0 +1,48 @@
+# Geotechnicalengineering — Windsor Ontario
+
+> Geotechnical engineering services in Windsor Ontario, Canada.
+
+## Services
+- [Anchors](https://windsor-ontario.geotechnicalengineering.vip/anchors/)
+- [Cbr Road](https://windsor-ontario.geotechnicalengineering.vip/cbr-road/)
+- [Deep Excavations](https://windsor-ontario.geotechnicalengineering.vip/deep-excavations/)
+- [Excavations](https://windsor-ontario.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://windsor-ontario.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://windsor-ontario.geotechnicalengineering.vip/footings/)
+- [Foundations](https://windsor-ontario.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://windsor-ontario.geotechnicalengineering.vip/geophysics/)
+- [Ground Improvement](https://windsor-ontario.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://windsor-ontario.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://windsor-ontario.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://windsor-ontario.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://windsor-ontario.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://windsor-ontario.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://windsor-ontario.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://windsor-ontario.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://windsor-ontario.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://windsor-ontario.geotechnicalengineering.vip/piles/)
+- [Plate Load Test](https://windsor-ontario.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://windsor-ontario.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://windsor-ontario.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://windsor-ontario.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://windsor-ontario.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://windsor-ontario.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://windsor-ontario.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://windsor-ontario.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://windsor-ontario.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://windsor-ontario.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://windsor-ontario.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://windsor-ontario.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://windsor-ontario.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://windsor-ontario.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://windsor-ontario.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://windsor-ontario.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://windsor-ontario.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://windsor-ontario.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://windsor-ontario.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Windsor Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
